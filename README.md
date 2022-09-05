@@ -1,5 +1,5 @@
 # ExpandableView
 
-Custome Expandview by kotlin on GitHub
+Custom ExpandView on GitHub
 
 I love :coffee:
